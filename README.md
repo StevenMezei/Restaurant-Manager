@@ -1,4 +1,4 @@
-# project_e2s1b_t9v4h_w7t0b
+# Restaurant Manager
 
 Restaurant Management Software
 
