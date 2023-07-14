@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="project_e2s1b_t9v4h_w7t0b:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/project_e2s1b_t9v4h_w7t0b_jar</output-path>
+    <root id="archive" name="project_e2s1b_t9v4h_w7t0b.jar">
+      <element id="module-output" name="project_e2s1b_t9v4h_w7t0b" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/ojdbc8.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
